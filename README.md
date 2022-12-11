@@ -1,7 +1,5 @@
 # cpsc103-project
 
-## Final project for CPSC 103
-
 **The program produces a bar chart of the percentage of confirmed COVID-19 cases out of total testest COVID-19 cases in British Columbia, Canada throughout twelve months.**
 
 **Output:**
