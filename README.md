@@ -1,4 +1,4 @@
-# cpsc103-project
+# CS103 Project (shawn54.github.io/cs103-project/)
 
 **The program produces a bar chart of the percentage of confirmed COVID-19 cases out of total testest COVID-19 cases in British Columbia, Canada throughout twelve months.**
 
